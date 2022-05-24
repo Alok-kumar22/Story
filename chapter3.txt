@@ -1,1 +1,5 @@
-This is chapter 3
+git add <file_name>  --> the command is used to add file from working directory to staging Area.
+git commit -m "commitment statement" --> command is used to add file from staging area to local repository.
+git status --> command is used to find no. of file which are not present in staging area
+git add . --> command used to add all the pending files in staging area.
+
